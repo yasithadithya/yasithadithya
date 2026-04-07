@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering Undergraduate @SLIIT Malabe 🎓<br><be>
+👨‍💻 Software Engineering graduate @SLIIT Malabe 🎓<br><be>
 🚀 Passionate about coding and building innovative solutions! 💻<br><be>
 🌟 Currently diving into the world of software engineering, exploring new technologies, and honing my skills to become a top-notch developer! 🔍<br>
 
