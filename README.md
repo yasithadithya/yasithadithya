@@ -196,13 +196,15 @@ Touch-based adaptive exercises that screen for learning difficulties in children
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
 
+<!-- ⚠️ REPLACE "grs-yasith.vercel.app" with YOUR OWN Vercel instance URL.
+     The public github-readme-stats.vercel.app instance is down/paused. -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yasithadithya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithadithya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true&langs_count=8" />
+  <img width="49%" src="https://grs-yasith.vercel.app/api?username=yasithadithya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img width="41%" src="https://grs-yasith.vercel.app/api/top-langs/?username=yasithadithya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&include_all_commits=true&count_private=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=yasithadithya&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=yasithadithya&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 </div>
 
 <div align="center">
