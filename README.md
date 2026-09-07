@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+%40+ZILLIONe;Building+with+ASP.NET+Core+%2B+React;ERP+integrations%2C+APIs+%26+infrastructure;From+localhost+to+production+IIS+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+%40+Sirius;Building+with+ASP.NET+Core+%2B+React;ERP+integrations%2C+APIs+%26+infrastructure;From+localhost+to+production+IIS+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 ```csharp
 public class Yasith : ISoftwareEngineer
 {
-    public string Role    => "Associate Software Engineer @ ZILLIONe Technologies";
+    public string Role    => "Associate Software Engineer @ Sirius Technologies";
     public string Degree  => "BSc (Hons) IT — Software Engineering, SLIIT";
     public string[] Stack => ["ASP.NET Core", "C#", "EF Core", "React", "TypeScript", "SQL Server"];
     public string[] Doing => ["ERP integrations (Sage 300)", "REST APIs", "IIS & Docker deployments"];
