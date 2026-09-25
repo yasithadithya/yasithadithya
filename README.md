@@ -214,7 +214,6 @@ Touch-based adaptive exercises that screen for learning difficulties in children
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yasithadithya&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yasithadithya)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
